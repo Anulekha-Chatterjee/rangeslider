@@ -1,0 +1,12 @@
+body {
+  font-family: sans-serif;
+}
+#rangeSlider {
+  width: 100%;
+}
+#pieChart {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  background-image: conic-gradient(green var(--percentage), lightgreen 0);
+}
